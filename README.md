@@ -1,2 +1,3 @@
 # PythonDSA
-https://www.datascienceacademy.com.br/  Curso de Python iniciado em 31/10/2024
+## https://www.datascienceacademy.com.br/
+### Python course started on 10/31/2024.
